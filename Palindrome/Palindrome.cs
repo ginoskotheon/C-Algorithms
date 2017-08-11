@@ -37,9 +37,9 @@ namespace Palindrome
             {
                 result = false;
             }
-           Console.WriteLine(str); 
-            Console.WriteLine(mini);
-            Console.WriteLine(revd);
+            // Console.WriteLine(str); 
+            // Console.WriteLine(mini);
+            // Console.WriteLine(revd);
             return result;
         }
     }
