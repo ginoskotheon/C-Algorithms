@@ -1,8 +1,0 @@
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\FizzBuzz\bin\Debug\netcoreapp1.1\FizzBuzz.deps.json
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\FizzBuzz\bin\Debug\netcoreapp1.1\FizzBuzz.runtimeconfig.json
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\FizzBuzz\bin\Debug\netcoreapp1.1\FizzBuzz.runtimeconfig.dev.json
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\FizzBuzz\bin\Debug\netcoreapp1.1\FizzBuzz.dll
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\FizzBuzz\bin\Debug\netcoreapp1.1\FizzBuzz.pdb
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\FizzBuzz\obj\Debug\netcoreapp1.1\FizzBuzz.AssemblyInfo.cs
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\FizzBuzz\obj\Debug\netcoreapp1.1\FizzBuzz.dll
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\FizzBuzz\obj\Debug\netcoreapp1.1\FizzBuzz.pdb

@@ -6,7 +6,9 @@ namespace ReverseString
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(ReverseString("Sam"));
+            Console.WriteLine("Type something ...");
+            string something = Console.ReadLine();
+            Console.WriteLine(ReverseString(something));
         }
 
         static string ReverseString(string str)

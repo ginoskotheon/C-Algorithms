@@ -1,8 +1,0 @@
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\ReverseString\bin\Debug\netcoreapp1.1\ReverseString.deps.json
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\ReverseString\bin\Debug\netcoreapp1.1\ReverseString.runtimeconfig.json
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\ReverseString\bin\Debug\netcoreapp1.1\ReverseString.runtimeconfig.dev.json
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\ReverseString\bin\Debug\netcoreapp1.1\ReverseString.dll
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\ReverseString\bin\Debug\netcoreapp1.1\ReverseString.pdb
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\ReverseString\obj\Debug\netcoreapp1.1\ReverseString.AssemblyInfo.cs
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\ReverseString\obj\Debug\netcoreapp1.1\ReverseString.dll
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\ReverseString\obj\Debug\netcoreapp1.1\ReverseString.pdb
