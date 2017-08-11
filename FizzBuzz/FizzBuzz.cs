@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace C_Algorithms
+namespace FizzBuzz
 {
-    class FizzBuzz
+    class Program
     {
         static void Main(string[] args)
         {
