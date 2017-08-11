@@ -6,11 +6,10 @@ namespace C_Algorithms
     {
         static void Main(string[] args)
         {
-            Fizzbuzz(15);   
+            Fizzbuzz(100);   
         }
         static void Fizzbuzz(int num)
         {
-            // string ans = "";
             for (int i = 0; i < num; i++)
             {
                 if(i % 5 == 0 && i % 3 == 0){
