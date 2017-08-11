@@ -21,7 +21,6 @@ namespace Palindrome
             
             return rvstr;
         }
-
         static bool IsPalindrome(string str)
         {
             var result = true;
