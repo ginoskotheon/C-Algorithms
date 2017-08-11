@@ -8,9 +8,6 @@ namespace C_Algorithms
         {
             Fizzbuzz(15);   
         }
-
-    
-
         static void Fizzbuzz(int num)
         {
             // string ans = "";
