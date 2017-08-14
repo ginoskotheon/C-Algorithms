@@ -52,12 +52,13 @@ namespace MergeSort
 
             while(NotEmpty(left) && NotEmpty(right))
             {
-                if(left.First() <= right.First())  MoveValueFromSourceToResult(left,result);
+                if(left.First() <= right.First()) MoveValueFromSourceToResult(left,result);
                 else MoveValueFromSourceToResult(right, result);
             }
 
-            while(NotEmpty(left)) MoveValueFromSourceToResult(left, result);
-            while(NotEmpty(right)) MoveValueFromSourceToResult(right, result);
+            while(NotEmpty(left)) 
+                MoveValueFromSourceToResult(left, result);
+            while(NotEmpty(right)) {MoveValueFromSourceToResult(right, result);}
 
             return result.ToArray();  
         }
