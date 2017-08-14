@@ -17,13 +17,6 @@ namespace HeapSort
             }
         }
 
-        private void Swap(int[] nums, int x, int y)
-        {
-            int temp = nums[x];
-            nums[x] = nums[y];
-            nums[y] = temp;
-        }
-
         private void Heapify(int[] nums, int index)
         {
             int left = 2 * index;
@@ -31,14 +24,10 @@ namespace HeapSort
             int largest = index;
 
             if (left <= heapSize && nums[left] > nums[index])
-            {
                 largest = left;
-            }
 
             if (right <= heapSize && nums[right] > nums[largest])
-            {
                 largest = right;
-            }
 
             if(largest != index)
             {
@@ -64,6 +53,13 @@ namespace HeapSort
             {
                 Console.Write("{0} ", nums[i]);
             }
+        }
+
+        private void Swap(int[] nums, int x, int y)
+        {
+            int temp = nums[x];
+            nums[x] = nums[y];
+            nums[y] = temp;
         }
     }
 }
