@@ -1,7 +1,3 @@
-FizzBuzz/bin/
-FizzBuzz/obj/
-ReverseString/bin/
-ReverseString/obj/
-Palindrome/bin/
-Palindrome/obj/
+bin/
+obj/
 .vscode/

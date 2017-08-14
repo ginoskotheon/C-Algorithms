@@ -1,8 +1,0 @@
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\MergeSort\bin\Debug\netcoreapp1.1\MergeSort.deps.json
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\MergeSort\bin\Debug\netcoreapp1.1\MergeSort.runtimeconfig.json
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\MergeSort\bin\Debug\netcoreapp1.1\MergeSort.runtimeconfig.dev.json
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\MergeSort\bin\Debug\netcoreapp1.1\MergeSort.dll
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\MergeSort\bin\Debug\netcoreapp1.1\MergeSort.pdb
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\MergeSort\obj\Debug\netcoreapp1.1\MergeSort.AssemblyInfo.cs
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\MergeSort\obj\Debug\netcoreapp1.1\MergeSort.dll
-C:\Users\wmcdonald\Documents\cSharp\C-Algorithms\MergeSort\obj\Debug\netcoreapp1.1\MergeSort.pdb
