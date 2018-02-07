@@ -14,6 +14,7 @@ namespace BubbleSort
         private static void BubbleSort(int[] nums)
         {
             int n = nums.Length;
+            PrintArray("Before: ", nums);
             bool swapped;
             do {
                 swapped = false;
@@ -27,7 +28,7 @@ namespace BubbleSort
                 }
             } while (swapped == true);
 
-            PrintArray(nums);
+            PrintArray("\nAfter: ", nums);
         }
 
          private static void Swap(ref int n1, ref int n2)
@@ -37,8 +38,9 @@ namespace BubbleSort
             n1 = temp; 
         }
 
-        private static void PrintArray(int[] nums)
+        private static void PrintArray(string sMessage, int[] nums)
         {
+            Console.WriteLine(sMessage);
             for (int i = 0; i < nums.Length; i++)
                 Console.Write("{0} ", nums[i] ); 
         }
