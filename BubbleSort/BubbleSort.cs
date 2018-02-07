@@ -21,15 +21,20 @@ namespace BubbleSort
                 {
                     if (nums[i] > nums[i+1])
                     {
-                        int temp = nums[i+1];
-                        nums[i+1] = nums[i];
-                        nums[i]  = temp;
+                        Swap(ref nums[i], ref nums[i+1]);
                         swapped = true;
                     }
                 }
             } while (swapped == true);
 
             PrintArray(nums);
+        }
+
+         private static void Swap(ref int n1, ref int n2)
+        {
+            int temp = n2;
+            n2 = n1;
+            n1 = temp; 
         }
 
         private static void PrintArray(int[] nums)
