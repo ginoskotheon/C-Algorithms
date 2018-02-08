@@ -13,22 +13,20 @@ namespace InsertionSort
 
         public static void InsertionSort(int[] nums)
         {
+            int newValue;
             for (int i = 1; i < nums.Length; i++)
             {
-                for (int j = i; j > 0 && nums[j-1] > nums[j]; j--)
+                newValue = nums[i];
+                int j = i;
+                while(j > 0 && nums[j-1] > newValue)
                 {
-                   Swap(nums, j, j-1);
+                    nums[j] = nums[j-1];
+                    j--;
                 }
+                nums[j] = newValue;
             }
 
             PrintArray(nums);
-        }
-
-        public static void Swap(int[] nums, int i, int j)
-        {
-            int temp = nums[i];
-            nums[i] = nums[j];
-            nums[j] = temp;
         }
 
         private static void PrintArray(int[] nums)
